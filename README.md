@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Eu sou Pedro Paulino de Campinas-SP<br><br>- 🔭 Trabalhando Analista de Suporte N2<br>- 📚 Atualmente estudando JS e Kotlin<br>- 🎯 Objetivos: Concluir a minha transição de carreira</p>
+<p align="left">Eu sou Pedro Paulino de Campinas-SP<br><br>- 🔭 Trabalhando como Analista de Suporte N2<br>- 📚 Atualmente estudando JS e Kotlin<br>- 🎯 Objetivos: Concluir a minha transição de carreira</p>
 
 ###
 
