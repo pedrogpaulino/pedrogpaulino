@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Eu sou Pedro Paulino de Campinas-SP<br><br>- 🔭 Trabalhando como Analista de Suporte N2<br>- 📚 Atualmente estudando JS e Kotlin<br>- 🎯 Objetivo: Concluir a minha transição de carreira</p>
+<p align="left">- 🔭 Trabalhando Analista de Suporte N2<br>- 📚 Atualmente estudando Java e Kotlin<br>- 🎯 Objetivos: Concluir a minha transição de carreira</p>
 
 ###
 
@@ -25,11 +25,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
